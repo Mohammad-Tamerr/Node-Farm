@@ -1,0 +1,167 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed..."
+  },
+  {
+    "id": 1,
+    "productName": "Cheese",
+    "image": "🧀",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world..."
+  },
+  {
+    "id": 2,
+    "productName": "Milk",
+    "image": "🥛",
+    "from": "Italy",
+    "nutrients": "Vitamin D, Vitamin K",
+    "quantity": "500ml",
+    "price": "3.50",
+    "organic": true,
+    "description": "Milk is a complex dairy product that is rich in various vitamins and minerals..."
+  },
+  {
+    "id": 3,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients..."
+  },
+  {
+    "id": 4,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food..."
+  },
+  {
+    "id": 5,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world..."
+  },
+  {
+    "id": 6,
+    "productName": "Fresh Strawberries",
+    "image": "🍓",
+    "from": "USA",
+    "nutrients": "Vitamin C, Antioxidants",
+    "quantity": "500g",
+    "price": "4.50",
+    "organic": true,
+    "description": "Strawberries are bright red, juicy, and sweet. They’re an excellent source of vitamin C and antioxidants..."
+  },
+  {
+    "id": 7,
+    "productName": "Ripe Mangoes",
+    "image": "🥭",
+    "from": "India",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "3 🥭",
+    "price": "7.00",
+    "organic": true,
+    "description": "Mangoes are juicy stone fruits with a sweet and tropical taste. Rich in vitamin A and C, they support immunity and eye health..."
+  },
+  {
+    "id": 8,
+    "productName": "Bananas",
+    "image": "🍌",
+    "from": "Ecuador",
+    "nutrients": "Potassium, Vitamin B6",
+    "quantity": "6 🍌",
+    "price": "3.50",
+    "organic": true,
+    "description": "Bananas are a great source of potassium and vitamin B6, offering an energy-boosting snack with numerous health benefits."
+  },
+  {
+    "id": 9,
+    "productName": "Fresh Blueberries",
+    "image": "🫐",
+    "from": "USA",
+    "nutrients": "Vitamin C, Antioxidants",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": true,
+    "description": "Blueberries are rich in antioxidants and vitamin C, making them a perfect addition to smoothies or cereals."
+  },
+  {
+    "id": 10,
+    "productName": "Red Bell Peppers",
+    "image": "🌶️",
+    "from": "Mexico",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "3 🌶️",
+    "price": "4.00",
+    "organic": false,
+    "description": "Red bell peppers are sweet and vibrant vegetables that are high in vitamin A and C, perfect for salads or stir-fries."
+  },
+  {
+    "id": 11,
+    "productName": "Sweet Potatoes",
+    "image": "🍠",
+    "from": "USA",
+    "nutrients": "Vitamin A, Fiber",
+    "quantity": "4 🍠",
+    "price": "3.75",
+    "organic": true,
+    "description": "Sweet potatoes are packed with nutrients, especially vitamin A and fiber, and are great for baking or roasting."
+  },
+  {
+    "id": 12,
+    "productName": "Lettuce",
+    "image": "🥬",
+    "from": "France",
+    "nutrients": "Vitamin A, Folate",
+    "quantity": "1 head",
+    "price": "2.50",
+    "organic": false,
+    "description": "Organic lettuce is crisp and fresh, providing a healthy addition to any salad with a dose of vitamins A and folate."
+  },
+  {
+    "id": 13,
+    "productName": "Tomatoes",
+    "image": "🍅",
+    "from": "Italy",
+    "nutrients": "Vitamin C, Potassium",
+    "quantity": "500g",
+    "price": "4.20",
+    "organic": true,
+    "description": "Cherry tomatoes are sweet and juicy, providing a good source of vitamin C and potassium, ideal for salads or snacking."
+  },
+  {
+    "id": 14,
+    "productName": " Pineapples",
+    "image": "🍍",
+    "from": "Costa Rica",
+    "nutrients": "Vitamin C, Manganese",
+    "quantity": "1 🍍",
+    "price": "5.50",
+    "organic": false,
+    "description": "Pineapples are tropical fruits with a sweet-tart flavor, packed with vitamin C and manganese for immune support."
+  }
+]
