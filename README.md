@@ -13,8 +13,4 @@ A simple online market built using **Node.js**, **HTML**, and **CSS**. This proj
 - **Basic Routing:** Utilize Node.js and the HTTP module for server-side routing.
 - **Responsive Design:** Styled with CSS to work across devices.
 
-# Node-Farm Project Overview
-
-Here’s a video overview of the Node-Farm project:
-[Watch the video](https://www.youtube.com/watch?v=example](https://youtu.be/kJiNw0JbUgE)
 
